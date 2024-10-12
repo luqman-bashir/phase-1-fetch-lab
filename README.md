@@ -58,8 +58,8 @@ returned and passed to the _next_ `then()`. Finally, in the second `then()`, the
 
 The response from the API contains all ten books currently existing in the Game
 of Thrones series, in a JSON format.
-
 ![Fetch Response from Game of Thrones API](https://curriculum-content.s3.amazonaws.com/web-development/js/ajax/fetch_lab_promises_response.png)
+
 
 Since we asked for all the books by making a query to the `/books` path, it gave
 us all the books. APIs have many different variations and can be as customizable
